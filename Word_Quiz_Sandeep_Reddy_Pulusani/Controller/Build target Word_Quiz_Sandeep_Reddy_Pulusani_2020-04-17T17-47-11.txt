@@ -1,0 +1,7 @@
+
+Showing Recent Issues
+
+Build target Word_Quiz_Sandeep_Reddy_Pulusani of project Word_Quiz_Sandeep_Reddy_Pulusani with configuration Debug
+error: Signing for "Word_Quiz_Sandeep_Reddy_Pulusani" requires a development team. Select a development team in the Signing & Capabilities editor. (in target 'Word_Quiz_Sandeep_Reddy_Pulusani' from project 'Word_Quiz_Sandeep_Reddy_Pulusani')
+
+
